@@ -1,4 +1,6 @@
-### Hi there 👋
+### Привет! 👋
+## Меня зовут Андрей Соколов! 🔭
+## Я работаю Flutter разработчиком с июня 2024 г.  
 
 <!--
 **SokolovAndr/SokolovAndr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
