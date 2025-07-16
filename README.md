@@ -24,7 +24,7 @@ Flutter-разработчик с июня 2024 года.
 ### 🔗 Контакты
 * **Email**: [korch45@yandex.ru](mailto:korch45@yandex.ru)
 * **GitHub**: [SokolovAndr](https://github.com/SokolovAndr)
-* **Telegram**: [Sokolovand1993](@Sokolovand1993)
+* **Telegram**: [Telegram](https://t.me/Sokolovand1993)
 
 ### 🎯 Профессиональные цели
 * **Развитие** в области мобильной разработки
