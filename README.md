@@ -6,7 +6,7 @@ Flutter-разработчик с июня 2024 года.
 
 📊 Опытное портфолио
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) Flutter Development - создание кроссплатформенных приложений
+Flutter Development - создание кроссплатформенных приложений
 
 Mobile Apps - разработка для iOS и Android
 
