@@ -3,7 +3,9 @@
 Я работаю Flutter разработчиком с июня 2024 г.
 Здесь представлены некоторые мои проекты. 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SokolovAndr)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SokolovAndr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SokolovAndr)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SokolovAndr)](https://git.io/streak-stats)
 
