@@ -3,7 +3,10 @@
 Я работаю Flutter разработчиком с июня 2024 г.
 Здесь представлены некоторые мои проекты. 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SokolovAndr)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SokolovAndr)](https://git.io/streak-stats)
+
 
 <!--
 **SokolovAndr/SokolovAndr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
